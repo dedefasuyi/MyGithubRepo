@@ -1,6 +1,9 @@
 <html>
+<head>
+  <title>My First HTML File</title>
+</head>
 <body>
-<h2>Facebook</h2>
-<h3>Get ready</h3>
+  <h1>Hello, World!</h1>
+  <p>This is a basic HTML file.</p>
 </body>
 </html>
